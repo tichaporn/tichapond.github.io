@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Krub', cursive;
+
+    header {
+        background: #5608ff;
+        padding: 30px;
+        text-align: center;
+        font-size: 35px;
+        color: white;
+      }
+      .button1 {border-radius: 12px;}
+      .button1 {
+        background-color: white;
+        color: tomato;
+        border: 2px solid #ff5757;
+        padding: 15px 32px
+      }
+      
+      .button1:hover {
+        background-color: #f94a4a;
+        color: white;
+        padding: 15px 32px
+      }
+      .button2 {border-radius: 12px;}
+      .button2 {
+        background-color: white;
+        color: rgb(1, 213, 75);
+        border: 2px solid #00d32a;
+        padding: 15px 32px
+      }
+      
+      .button2:hover {
+        background-color: #00bf39;
+        color: white;
+        padding: 15px 32px
+      }
+}
